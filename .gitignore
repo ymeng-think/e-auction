@@ -1,3 +1,7 @@
 # Idea #
 .DS_Store
 *.iws
+
+# Java Target Files #
+auction-service/target
+
