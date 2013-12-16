@@ -171,7 +171,9 @@
     </entry>
   </component>
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auction-service/auction-service.iml" filepath="$PROJECT_DIR$/auction-service/auction-service.iml" />
+    </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Android 4.4 Platform" project-jdk-type="Android SDK">
     <output url="file://$PROJECT_DIR$/out" />
